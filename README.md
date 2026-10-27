@@ -1,20 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Remedan Usleyman — Personal Portfolio
 
-# Run and deploy your AI Studio app
+Welcome to my personal portfolio website!
 
-This contains everything you need to run your app locally.
+I'm a Computer Science student at Haramaya University and an aspiring Full-Stack Developer from Ethiopia.
 
-View your app in AI Studio: https://ai.studio/apps/2c2a64a0-8ecf-49d3-b0fc-31a007283ed9
+### Technologies
+- HTML
+- CSS
+- JavaScript
+- React
+- Vite
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Contact
+- **GitHub:** https://github.com/rameesuccess
+- **Email:** remedanusuleyman@gmail.com
